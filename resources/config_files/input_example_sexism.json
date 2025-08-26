@@ -4,7 +4,7 @@
     "nRetries": 1,
     "temperature": 1.0,
     "tokens": 60,
-    "llm": "Berry",
+    "llm": "BILOpenAI",
     "useLLMEval": true,
     "inputLanguage": "en_us",
     "translateInto": [
